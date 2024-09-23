@@ -1,0 +1,2 @@
+ curl -s https://api.ipify.org
+34.143.144.230manuelwire116@cloudshell:~$ python send.py
